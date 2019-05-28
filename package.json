@@ -1,0 +1,36 @@
+{
+    "name": "iron-man",
+    "displayName": "Iron Man",
+    "description": "VScode theme inspired by Iron Man MK50 suit",
+    "publisher": "lintangwisesa",
+    "icon": "lintang/iron128.png",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LintangWisesa/VScode-Tokopedia-Theme.git"
+    },
+    "keywords": [
+        "iron man",
+        "vscode"
+    ],
+    "galleryBanner": {
+        "color": "#F9D38B",
+        "theme": "dark"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Iron Man",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Iron Man-color-theme.json"
+            }
+        ]
+    }
+}
