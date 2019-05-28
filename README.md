@@ -2,7 +2,11 @@
 
 # Hello Iron Mania!
 
-- Download theme: [VScode Iron Man Theme](https://github.com/LintangWisesa/VScode-Iron-Man-Theme).
+Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. 
+
+A wealthy American business magnate, playboy, and ingenious scientist, Anthony Edward "Tony" Stark suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a powered suit of armor to save his life and escape captivity. Later, Stark develops his suit, adding weapons and other technological devices he designed through his company, Stark Industries. He uses the suit and successive versions to protect the world as Iron Man.
+
+- Download theme: [VScode Iron Man Theme](https://marketplace.visualstudio.com/items?itemName=lintangwisesa.iron-man).
 - Source code: [VScode Iron Man Theme Source Code](https://github.com/LintangWisesa/VScode-Iron-Man-Theme).
 
 ## Preview 🔍

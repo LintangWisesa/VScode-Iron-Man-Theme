@@ -15,7 +15,7 @@
     ],
     "galleryBanner": {
         "color": "#F9D38B",
-        "theme": "dark"
+        "theme": "light"
     },
     "version": "0.0.1",
     "engines": {
